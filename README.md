@@ -1,1 +1,1 @@
-java gui snake game
+java gui snakegame
